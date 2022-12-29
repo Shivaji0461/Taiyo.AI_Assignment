@@ -14,19 +14,3 @@ negative
 importance aspects
 
 ○ LSTM derivatives on day ahead prediction with confidence bounds
-
-● How would you improve and present your results with more time
-and resources
-
-● References:
-
-○ Run multiple time series ML models
-
-■ https://lazypredict.readthedocs.io/en/latest/
-○ Uncertainty quantification
-
-■ https://uncertainpy.readthedocs.io/en/latest/
-
-■ https://github.com/scikit-learn-contrib/mapie
-
-● Related thinking and documentation in a short report
